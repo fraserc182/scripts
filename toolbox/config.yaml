@@ -1,0 +1,6 @@
+hosts:
+  DB-ALIAS: DB-HOST
+defaults:
+  region: eu-west-2
+  user: read-only
+  profile: dev
